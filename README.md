@@ -33,7 +33,7 @@ The application will be available at `http://localhost:5173`.
 - **Save Submissions as Data**
 - **Dashboard (Totals & Chart)**
 - **Filter**
-- **Export to CSV**:
+- **Export to CSV**
 - **Page Visit Tracking**
 
 ## 🛠️ Tech Stack
