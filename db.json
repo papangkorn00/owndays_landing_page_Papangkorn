@@ -1,0 +1,181 @@
+{
+  "page_views": [
+    {
+      "path": "/",
+      "sessionId": "zgic9dr976psd7o14l60c",
+      "timestamp": "2026-06-05T12:50:05.595Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0",
+      "id": "LwCryUguZ7g"
+    },
+    {
+      "path": "/",
+      "sessionId": "zgic9dr976psd7o14l60c",
+      "timestamp": "2026-06-05T12:51:34.295Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0",
+      "id": "kYbRP3blvY8"
+    },
+    {
+      "path": "/",
+      "sessionId": "zgic9dr976psd7o14l60c",
+      "timestamp": "2026-06-05T12:55:33.644Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0",
+      "id": "XBRYS9TatTU"
+    }
+  ],
+  "branches": [
+    {
+      "id": "1",
+      "name": "Siam Center",
+      "address": "Floor M, Siam Center, Rama 1 Road, Pathum Wan, Bangkok 10330",
+      "phone": "02-123-4561",
+      "operating_hours": "10:00 - 22:00"
+    },
+    {
+      "id": "2",
+      "name": "Central World",
+      "address": "Floor 2, Central World, Ratchadamri Road, Pathum Wan, Bangkok 10330",
+      "phone": "02-123-4562",
+      "operating_hours": "10:00 - 22:00"
+    },
+    {
+      "id": "3",
+      "name": "Mega Bangna",
+      "address": "Floor 1, Mega Bangna, Bang Na-Trat Road, Bang Kaeo, Bang Phli, Samut Prakan 10540",
+      "phone": "02-123-4563",
+      "operating_hours": "10:00 - 22:00"
+    },
+    {
+      "id": "4",
+      "name": "Central Plaza Ladprao",
+      "address": "Floor 2, Central Plaza Ladprao, Phahonyothin Road, Chatuchak, Bangkok 10900",
+      "phone": "02-123-4564",
+      "operating_hours": "10:00 - 22:00"
+    },
+    {
+      "id": "5",
+      "name": "ICONSIAM",
+      "address": "Floor 3, ICONSIAM, Charoen Nakhon Road, Khlong San, Bangkok 10600",
+      "phone": "02-123-4565",
+      "operating_hours": "10:00 - 22:00"
+    },
+    {
+      "id": "6",
+      "name": "Zpell at Future Park",
+      "address": "Floor 1, Zpell, Phahonyothin Road, Prachathipat, Thanyaburi, Pathum Thani 12130",
+      "phone": "02-123-4566",
+      "operating_hours": "10:30 - 21:30"
+    },
+    {
+      "id": "7",
+      "name": "Central Festival Chiangmai",
+      "address": "Floor 2, Central Festival Chiangmai, Superhighway Road, Fa Ham, Mueang Chiang Mai, Chiang Mai 50000",
+      "phone": "053-123-4567",
+      "operating_hours": "11:00 - 21:30"
+    },
+    {
+      "id": "8",
+      "name": "Terminal 21 Asok",
+      "address": "Floor 3, Terminal 21, Sukhumvit Road, Watthana, Bangkok 10110",
+      "phone": "02-123-4568",
+      "operating_hours": "10:00 - 22:00"
+    },
+    {
+      "id": "9",
+      "name": "Central Plaza Grand Rama 9",
+      "address": "Floor 2, Central Plaza Grand Rama 9, Ratchadaphisek Road, Huai Khwang, Bangkok 10310",
+      "phone": "02-123-4569",
+      "operating_hours": "10:00 - 22:00"
+    },
+    {
+      "id": "10",
+      "name": "The Mall Lifestore Ngamwongwan",
+      "address": "Floor 2, The Mall Ngamwongwan, Ngamwongwan Road, Mueang Nonthaburi, Nonthaburi 11000",
+      "phone": "02-123-4570",
+      "operating_hours": "10:00 - 22:00"
+    }
+  ],
+  "registrations": [
+    {
+      "name": "John Doe",
+      "email": "john@gmail.com",
+      "phone": "01111111111",
+      "preferredStore": "Mega Bangna",
+      "preferredDate": "2026-06-05",
+      "createdAt": "2026-06-05T11:42:36.314Z",
+      "id": "wVnNadqFH6E"
+    },
+    {
+      "name": "John Doe",
+      "email": "john@gmail.com",
+      "phone": "01111111111",
+      "preferredStore": "Mega Bangna",
+      "preferredDate": "2026-06-12",
+      "createdAt": "2026-06-05T11:44:27.347Z",
+      "id": "0M0OQtlG5eY"
+    },
+    {
+      "name": "John Doe",
+      "email": "john@gmail.com",
+      "phone": "01111111111",
+      "preferredStore": "Mega Bangna",
+      "preferredDate": "2026-06-12",
+      "createdAt": "2026-06-05T11:56:58.024Z",
+      "id": "k97P4XsZLBI"
+    },
+    {
+      "name": "John Doe",
+      "email": "john@gmail.com",
+      "phone": "01111111111",
+      "preferredStore": "Siam Center",
+      "preferredDate": "2026-06-26",
+      "createdAt": "2026-06-05T11:57:55.764Z",
+      "id": "AgqW0Fl75jU"
+    },
+    {
+      "name": "John Doe",
+      "email": "john@gmail.com",
+      "phone": "01111111111",
+      "preferredStore": "Central Plaza Grand Rama 9",
+      "preferredDate": "2026-06-15",
+      "createdAt": "2026-06-05T11:58:06.358Z",
+      "id": "_O5M-SNvm2c"
+    },
+    {
+      "name": "John Doe",
+      "email": "john@gmail.com",
+      "phone": "01111111111",
+      "preferredStore": "Terminal 21 Asok",
+      "preferredDate": "2026-06-05",
+      "createdAt": "2026-06-05T11:59:26.055Z",
+      "id": "jAXQLLdD7QA"
+    },
+    {
+      "name": "John Doe",
+      "email": "john@gmail.com",
+      "phone": "01111111111",
+      "preferredStore": "Central Plaza Ladprao",
+      "preferredDate": "2026-06-05",
+      "createdAt": "2026-06-05T12:19:00.329Z",
+      "id": "jtoJQhF4jYg"
+    },
+    {
+      "name": "John Doe",
+      "email": "john@gmail.com",
+      "phone": "01111111111",
+      "preferredStore": "Mega Bangna",
+      "preferredDate": "2026-06-24",
+      "createdAt": "2026-06-05T12:25:10.456Z",
+      "id": "FObXHAmwsTY"
+    },
+    {
+      "name": "John Doe",
+      "email": "john@gmail.com",
+      "phone": "01111111111",
+      "preferredStore": "ICONSIAM",
+      "preferredDate": "2026-06-24",
+      "createdAt": "2026-06-05T12:45:21.413Z",
+      "id": "SP4il3zgm2A"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
