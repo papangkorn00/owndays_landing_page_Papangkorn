@@ -57,4 +57,3 @@ The application will be available at `http://localhost:5173`.
 - **Project Setup**: Initializing the project and installing dependencies.
 - **Folder Structure**: Organizing the project architecture according to the planned design.
 - **Styling & UI**: Implementing the website's styling to match the guidelines specified in `DESIGN.md`.
-- **Wring this document
